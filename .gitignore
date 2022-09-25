@@ -1,0 +1,6 @@
+# to ignore node_modules folder anywhere in the project repository
+node_modules/
+
+# to ignore the folders config and ref in the root directory
+/config
+/ref
